@@ -7,6 +7,7 @@
 #### Print the final price after calculating gst
 #### Print first 10 whole numbers
 #### Pattern Printing
+---
 
 ### Basic Programs 1
 ---
